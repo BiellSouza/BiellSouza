@@ -1,7 +1,6 @@
 # 👋 Olá! Bem-vindos ao meu perfil
 
 ### 👤 Nome: Gabriel de Souza  
-🌐 **Meu site**: [Em Construção.com](#)  
 📅 **Idade**: 21 anos  
 📍 **Localização**: São Gonçalo - Rio de Janeiro  
 💻 **Desenvolvedor Front-End (ReactJs)**  
