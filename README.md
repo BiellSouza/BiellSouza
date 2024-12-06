@@ -49,7 +49,7 @@ Buscando ampliar meu conhecimento na área de Frontend e Backend, estou me dedic
 ## 🛠️ Outras Informações Importantes
 
 - 🌟 **Filosofia de Trabalho**: Sempre busco criar código limpo, escalável e eficiente.
-- 📖 **Outros Conhecimentos**: Atualmente curso Design de Interfaces na Udemy, possuindo já habilidades em:
+- 📖 **Outros Conhecimentos**: Atualmente concluí o curso de Design de Interfaces na Udemy, possuindo já habilidades em:
 
 <p> 
   <img alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg"/> 
