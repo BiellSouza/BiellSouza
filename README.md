@@ -25,20 +25,6 @@ Atualmente, meu foco está no desenvolvimento Frontend, utilizando as seguintes 
 
 ---
 
-## 🚀 Tecnologias que Estou Estudando
-
-Buscando ampliar meu conhecimento na área de Frontend e Backend, estou me dedicando a:
-
-<p> 
-  <img alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-</p>
-
----
-
 ## 🛠️ Outras Informações Importantes
 
 - 🌟 **Filosofia de Trabalho**: Sempre busco criar código limpo, escalável e eficiente.
