@@ -1,7 +1,7 @@
 • Name: Gabriel de Souza.<br>
 • My Website: https://portfolio-front-tan.vercel.app/.<br>
 • Role: Web Developer (Front-End / Full Stack).<br>
-• Age: 22.<br>
+• Age: 23.<br>
 • Location: São Gonçalo - RJ, Brazil.<br>
 
 ---
